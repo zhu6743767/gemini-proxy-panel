@@ -4,6 +4,9 @@ main = "worker/src/index.ts"
 compatibility_date = "2025-03-27"
 compatibility_flags = ["nodejs_compat"]
 
+ADMIN_PASSWORD = "13579022968"
+
+
 [assets]
 binding = "ASSETS"
 directory = "public"
